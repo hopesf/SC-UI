@@ -1,6 +1,4 @@
-import React from 'react';
-
-const Table = ({ data, columns }) => {
+export default function Table({ data, columns }) {
     return (
         <table>
             <thead>
@@ -22,5 +20,3 @@ const Table = ({ data, columns }) => {
         </table>
     );
 };
-
-export default Table;
