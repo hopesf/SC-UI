@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/hopesf/SC-UI/issues"
   },
-  "homepage": "https://github.com/hopesf/SC-UI#readme"
+  "homepage": "https://github.com/hopesf/SC-UI#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
